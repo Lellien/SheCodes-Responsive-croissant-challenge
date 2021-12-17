@@ -1,0 +1,16 @@
+body {
+  background: rgb(248, 232, 166);
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+footer a {
+  margin: 0 10px;
+  color: darkolivegreen;
+}
+.text-center {
+  text-align: center;
+}
